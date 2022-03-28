@@ -1,4 +1,4 @@
-access_token = ""  # токен пользователя (vk.cc/a6dCgm)
+access_token = "16f93b8f9110870095e6b3fe670f179b5cbd9aaaac9456843dcf78f2bf797021824ea0cf47e55c8a88e1b"  # токен пользователя (vk.cc/a6dCgm)
 log_messages = True  # логировать ли сообщения
 
 prefixes = {  # префиксы, перед сообщениями
